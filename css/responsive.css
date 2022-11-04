@@ -1,0 +1,241 @@
+
+@media (max-width: 1199.98px) {
+	.container{
+		width: 960px;
+	}
+	.banner h1 {
+   		font-size: 40px;
+	}
+	.banner h3 {
+	    font-size: 22px;
+	}
+	.feature .details h1 {
+    font-size: 40px;
+}
+	.development h1 {
+    font-size: 40px;
+    }
+    .development .devBox {
+    width: 90%;
+}
+	.mission .title h1 {
+    font-size: 40px;
+    }
+    .founder .title h1 {
+    font-size: 40px;
+}	.founder .image img {
+    max-width: 95%;
+}
+	.news .title h1 {
+    font-size: 40px;
+}
+	.news .card {
+    margin: 2px 5px;
+    padding: 0px 5px 5px;
+}	
+}
+@media (max-width: 991.98px) {
+	.container{
+		width: 720px;
+	}
+	/* .col-md-6{
+		width: 50%;
+	} */
+	.banner h1 {
+    font-size: 38px;
+}
+	.title h2 {
+    font-size: 22px;
+}	
+	.title span {
+    margin: 8px 0 10px;
+}
+	.feature .details h1 {
+    font-size: 38px;
+}
+	.feature .details p {
+    font-size: 18px;
+    padding-right: 20px;
+    margin: 8px 0px;
+}
+	.development {
+	    padding: 20px 0px;
+	}
+	.development h1 {
+    font-size: 38px;
+}
+	.development .devBox h5 {
+	    margin: 0;
+}
+	.images {
+    margin: 20px 0px;
+}
+	.mission {
+    padding: 20px 0px;
+}
+	.mission .title h1 {
+    font-size: 38px;
+}
+	.mission .title h3 {
+    font-size: 20px;
+}
+	.mission .image img {
+    max-width: 100%;
+}	
+	.mission .content {
+    padding-right: 10px;
+}
+	.mission .box .innerbox h5 {
+    font-size: 18px;
+}
+	.founder {
+    padding: 20px 0px;
+}
+	.founder .title h1 {
+    font-size: 38px;
+}
+	.founder .title h3 {
+    font-size: 20px;
+}
+	.founder .row {
+    padding-bottom: 20px;
+}
+	.founder .content h4 {
+    font-size: 22px;
+}
+	.founder .content h5 {
+    font-size: 18px;
+}
+.founder .content p {
+    font-size: 16px;
+    margin: 8px 0px;
+}
+	.founder .content a {
+    font-size: 13px;
+}
+	.founder .content a i {
+    font-size: 18px;
+}
+.news {
+    padding: 10px 0 32px;
+}
+	.news .title h1 {
+	    font-size: 38px;
+	    margin: 5px 0px;
+}
+	.news .card iframe, img {
+    margin-bottom: 10px;
+}
+	.news .card .card-body h5 {
+    font-size: 15px;
+}
+	.news .card .card-body p {
+    margin-top: 4px;
+    font-size: 14px;
+}
+.job .card .card-body h5 {
+    font-size: 25px;
+}
+}
+@media (max-width: 767.98px) { 
+	
+	.container{
+		width: 540px;
+		padding: 0px 20px;
+	}
+	.row{
+		flex-direction: column;
+	}
+	.col-12,.col-6,.col-4,.col-3{
+		width: 100%;
+	}
+	.title{
+		text-align: center;
+	}
+	.feature .details p {
+    font-size: 19px;
+}
+.development .devBox {
+    padding: 15px 0px;
+    width: 100%;
+}
+.development .devBox h5 {
+    font-size: 30px;
+}
+.development .devBox h4 {
+    font-size: 26px;
+}
+.development .devBox p {
+    margin: 5px 0;
+    font-size: 18px;
+}
+.mission .title {
+    padding-bottom: 0px;
+}
+.mission .title h3 {
+    font-size: 22px;
+}
+.mission .content p {
+    font-size: 18px;
+}
+.founder .title h1 {
+    font-size: 37px;
+}
+.founder .content {
+    text-align: center;
+}
+.founder .content h4 {
+    font-size: 24px;
+}
+.founder .content h5 {
+    font-size: 20px;
+}
+.founder .content p {
+    font-size: 17px;
+}
+.news .card {
+    text-align: center;
+}
+	.news .card iframe, img {
+    margin-bottom: 10px;
+    width: 100%;
+    height: 300px;
+}
+	.news .card a {
+    padding: 5px 30px;
+    font-size: 18px;
+}
+	.news .card .card-body h5 {
+    font-size: 20px;
+}
+	.news .card .card-body p {
+    margin-top: 4px;
+    font-size: 17px;
+}
+	.news .butt a {
+    font-size: 18px;
+}
+	.job .card img {
+    height: 200px;
+    width: 50%;
+}
+	.job .card .card-body h5 {
+    font-size: 28px;
+}
+	.job .card .card-body p {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+	.job .card .card-body a {
+    font-size: 18px;
+}
+}
+
+
+@media (max-width: 575.98px) {
+	.container{
+		width: 100%;
+		padding: 0px 10px;
+	}
+}
+
